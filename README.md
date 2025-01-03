@@ -5,3 +5,7 @@ This tutorial outlines the implementation of an Ubuntu web server within an Azur
 + Microsoft Azure (Virtual Machines)
 + Remote Desktop
 + Bash
+## Operating Systems Used
++ Ubuntu Server 22.04 LTS
+## Deployment and Configuration Steps
+In this lab, we're going to create a VM within a VNET. This will be a network interface controller (NIC) that umm
