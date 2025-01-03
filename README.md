@@ -8,4 +8,4 @@ This tutorial outlines the implementation of an Ubuntu web server within an Azur
 ## Operating Systems Used
 + Ubuntu Server 22.04 LTS
 ## Deployment and Configuration Steps
-In this lab, we're going to create a VM within a VNET. This will be a network interface controller (NIC) that umm
+In this lab, we're going to create a VM within a VNET in order to deploy our web server. This will require a Microsoft Azure account. First, you'll need to create a resource group. From your account homepage, select resource groups then create. A standard process of naming our resources so that we maintain organization is by using the format: type-region-application. An example could be RG-USE-Nextcloud. Click review+create then create. Your resource group is now created.
